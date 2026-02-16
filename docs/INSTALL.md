@@ -11,6 +11,7 @@
 ---
 
 <h2 align="center"> Step 1: Find Your Hardware ID </h2>
+
   - Open **Device Manager** (Windows + R and type: `devmgmt.msc`)
   - Find your WiFi adapter, it will likely be under **Network adapters** 
 > [!NOTE]
@@ -155,3 +156,4 @@ After rebooting:
 > ## This is an **unofficial, community-driven** effort and is not affiliated with or endorsed by MediaTek, ASUS, Dell, or any other manufacturer.
 
 ---
+
